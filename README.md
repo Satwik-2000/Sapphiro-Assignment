@@ -1,4 +1,4 @@
-# Sapphiro-Assignment
+# Sapphiro ToDo Task Manager
 
 Backend: Running on http://localhost:4000
 
